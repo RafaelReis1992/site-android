@@ -87,7 +87,7 @@ nav > a:hover {
 
 main {
     background-color: white;
-    padding: 20px;
+    padding: 10px;
     border-radius: 0px 0px 10px 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.224);
     max-width: 800px;
@@ -163,6 +163,7 @@ div.video > iframe {
 }
 
 aside {
+    width: 780px;
     background-color: var(--cor1);
     padding: 10px;
     border-radius: 10px;
@@ -173,12 +174,12 @@ aside > h3 {
     background-color: var(--cor4);
     color: white;
     padding: 10px;
-    margin: -10px -10px 0px -10px;
+    margin: -10px;
     border-radius: 10px 10px 0px 0px;
 }
 
 aside > ul {
-    list-style-type: '\2714\00a0\00a0';
+    list-style-type: '\2714';
     list-style-position: inside;
     columns: 2;
 }
