@@ -103,7 +103,7 @@ main img.pequeno {
 }
 
 main  h1 {
-    padding: 0px 20px;
+    padding: 20px;
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
